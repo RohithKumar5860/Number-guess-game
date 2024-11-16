@@ -18,3 +18,4 @@
 <h4>
   The output may be like the image below
 </h4>
+<img src = "output 2.png">
