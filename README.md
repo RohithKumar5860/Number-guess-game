@@ -10,4 +10,4 @@
 <h4>
   The output while the code is running
 </h4>
-<img src = ="outputwithoutguess.png">
+<img src ="outputwithoutguess.png">
