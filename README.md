@@ -15,3 +15,6 @@
   The Guessing the number correct and the terminal give the instructions to the user about the guess of the number. 
 </h4>
 <img src = "output 1.png">
+<h4>
+  The output may be like the image below
+</h4>
