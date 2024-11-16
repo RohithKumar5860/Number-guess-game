@@ -11,3 +11,7 @@
   The output while the code is running
 </h4>
 <img src ="outputwithoutguess.png">
+<h4>
+  The Guessing the number correct and the terminal give the instructions to the user about the guess of the number. 
+</h4>
+<img src = "output 1.png">
